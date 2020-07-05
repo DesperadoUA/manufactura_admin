@@ -1,0 +1,10 @@
+.price {
+    .title_row, .keywords_row, .short_desc_row, .prevyu_row, .wrapper-translate {
+        display: none; 
+    }
+}
+.price_edit {
+    .title_row, .keywords_row, .short_desc_row, .prevyu_row, .wrapper-translate, .show_page, .main_menu_link {
+        display: none; 
+    }
+}

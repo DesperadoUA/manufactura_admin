@@ -1,0 +1,8 @@
+.settings_template{ 
+    .show_page,.keywords_row, .short_desc_row, .prevyu_row, .delete_btn {
+        display: none;
+    }
+}
+.template_form .row .col-lg-5:nth-child(2) input {
+    display: none; 
+}

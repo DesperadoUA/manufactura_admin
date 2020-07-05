@@ -1,0 +1,25 @@
+.slider_item
+{
+    padding-top:15px;
+    padding-bottom:15px;
+    display:flex;
+    justify-content: space-between;
+}
+.slider_wrapper
+{
+    padding: 15px;
+    border-bottom: 2px solid rgba(5,181,229,.7);
+    margin-bottom: 15px;
+}
+.img_box
+{
+    max-width: 300px;
+}
+.slider_wrapper img
+{
+    max-width: 100%;
+}
+.delete_slide
+{
+    max-height: 50px;
+}
